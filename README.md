@@ -4,7 +4,7 @@ A [Jekyll](http://jekyllrb.com/) plugin for linklists. The concept is borrowed f
 
 ## Install
 
-Copy `linklist.rb` into your site's `_plugins` directory.
+Copy `linklists.rb` into your site's `_plugins` directory.
 
 ## Usage
 
